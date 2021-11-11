@@ -1,0 +1,6 @@
+#+TITLE: Custom Builds
+
+These are the custom builds of programs that I use. You probably will not find well-written code here, except for the stuff that was not made by me.
+
+* Installation
+I will try to remember to make a README for each one of the builds, but if I do not, running 'sudo make install' will (probably) work.
