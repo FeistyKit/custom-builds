@@ -3,5 +3,6 @@
 *.log
 tmp/
 
-
+*.o
+*.1
 *.tar.gz
